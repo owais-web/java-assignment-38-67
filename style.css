@@ -1,0 +1,21 @@
+.container{
+    margin: 30px 0px 10px 200px;
+    display: flex;
+}
+.img{
+    border: 1px solid rgb(35, 130, 255);
+    padding: 10px;
+    margin-right: 50px;
+    display: inline-block;
+}
+.modal-image{
+    width: 200px;
+    height: 200px;
+}
+.modal-image1{
+    width: 500px;
+    height: 400px;
+}
+.pera{
+    font-size: 20px;
+}
